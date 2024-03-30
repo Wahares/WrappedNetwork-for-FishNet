@@ -4,7 +4,7 @@ using FishNet.Object;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace WrappedNetwork.SceneManagement
+namespace WrappedFishNet
 {
     public sealed partial class WrappedNetwork : NetworkBehaviour
     {

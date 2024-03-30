@@ -7,7 +7,7 @@ using FishNet.Connection;
 using FishNet.Serializing;
 using UnityEngine;
 using UnityEditor;
-using WrappedNetwork;
+using WrappedFishNet;
 
 #if UNITY_EDITOR
 
@@ -23,7 +23,7 @@ public class WrappedViewEditor : Editor
 }
 #endif
 
-namespace WrappedNetwork
+namespace WrappedFishNet
 {
     [DefaultExecutionOrder(-64)]
     [RequireComponent(typeof(NetworkObject))]

@@ -2,7 +2,7 @@ using FishNet.Connection;
 using FishNet;
 using FishNet.Object;
 
-namespace WrappedNetwork
+namespace WrappedFishNet
 {
     public sealed partial class WrappedNetwork : NetworkBehaviour
     {

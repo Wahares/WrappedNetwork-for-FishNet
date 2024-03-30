@@ -3,7 +3,7 @@ using UnityEngine;
 using FishNet.Object;
 using FishNet.Connection;
 
-namespace WrappedNetwork.OnScene
+namespace WrappedFishNet
 {
     /// <summary>
     /// For using OnScene part you need to make GameObject with NetworkObject on it after you connect to the server
